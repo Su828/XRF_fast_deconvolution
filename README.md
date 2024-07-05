@@ -22,11 +22,34 @@ More information: https://art-ict.github.io/artict/home.html
 
 If you use our code, please cite the following papers:
 
-S. Yan, J.J. Huang, H. Verinaz-Jadan, N. Daly, C. Higgitt, and P.L. Dragotti, "A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings," IEEE Transactions on Computational Imaging, vol. 9, pp. 649-664, 2023.
+@article{yan2023fast,
+  title={A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings},
+  author={Yan, Su and Huang, Jun-Jie and Verinaz-Jadan, Herman and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={9},
+  pages={649--664},
+  year={2023},
+  publisher={IEEE}
+}
 
-S. Yan, J.J. Huang, N. Daly, C. Higgitt, and P.L. Dragotti, "When de Prony Met Leonardo: An Automatic Algorithm for Chemical Element Extraction From Macro X-Ray Fluorescence Data," IEEE Transactions on Computational Imaging, vol. 7, pp. 908–924, 2021.
+@article{yan2021prony,
+  title={When de Prony met Leonardo: an automatic algorithm for chemical element extraction from macro X-ray fluorescence data},
+  author={Yan, Su and Huang, Jun-Jie and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={7},
+  pages={908--924},
+  year={2021},
+  publisher={IEEE}
+}
 
-S. Yan, J.J. Huang, N. Daly, C. Higgitt, and P.L. Dragotti, "Revealing Hidden Drawings in Leonardo's 'The Virgin of the Rocks' from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation," in ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020, pp. 1444–1448.
+@inproceedings{yan2020revealing,
+  title={Revealing hidden drawings in leonardo’s ‘the Virgin of the Rocks’ from macro X-ray fluorescence scanning data through element line localisation},
+  author={Yan, Su and Huang, Jun-Jie and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1444--1448},
+  year={2020},
+  organization={IEEE}
+}
 
 ## License
 
