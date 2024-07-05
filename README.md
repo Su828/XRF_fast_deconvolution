@@ -2,7 +2,7 @@
 
 [Su Yan](https://profiles.imperial.ac.uk/s.yan18) ([s.yan18@imperial.ac.uk](mailto:s.yan18@imperial.ac.uk)) and Prof [Pier Luigi Dragotti](https://www.commsp.ee.ic.ac.uk/%7Epld/)
 
-MATLAB implementation for "A Fast Automatic Method for Deconvoluting Macro X-Ray Fluorescence Data Collected From Easel Paintings" (TCI 2023), [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
+MATLAB implementation for "A Fast Automatic Method for Deconvoluting Macro X-Ray Fluorescence Data Collected From Easel Paintings" (TCI 2023). Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
 
 ## License
 
