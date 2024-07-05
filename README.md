@@ -20,16 +20,16 @@ More information: https://art-ict.github.io/artict/home.html
 
 ## Citation
 
-If you use our code, please cite the following papers:
+If you use this code in your research, please cite the following paper:
 
 @article{yan2023fast,
-  title={A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings},
-  author={Yan, Su and Huang, Jun-Jie and Verinaz-Jadan, Herman and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
-  journal={IEEE Transactions on Computational Imaging},
-  volume={9},
-  pages={649--664},
-  year={2023},
-  publisher={IEEE}
+title={A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings},
+author={Yan, Su and Huang, Jun-Jie and Verinaz-Jadan, Herman and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
+journal={IEEE Transactions on Computational Imaging},
+volume={9},
+pages={649--664},
+year={2023},
+publisher={IEEE}
 }
 
 @article{yan2021prony,
