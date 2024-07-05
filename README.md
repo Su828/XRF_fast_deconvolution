@@ -1,4 +1,4 @@
-# Fast Automatic Deconvolution for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings
+# Fast Automatic Deconvolution (FAD) for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings
 
 [Su Yan](https://profiles.imperial.ac.uk/s.yan18) ([s.yan18@imperial.ac.uk](mailto:s.yan18@imperial.ac.uk)) and Prof [Pier Luigi Dragotti](https://www.commsp.ee.ic.ac.uk/%7Epld/)
 
@@ -10,7 +10,9 @@
 
 ## Introduction
 
-This is the MATLAB implementation for "A Fast Automatic Method for Deconvoluting Macro X-Ray Fluorescence Data Collected From Easel Paintings" (TCI 2023). Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
+This repository is the official MATLAB implementation of the Fast Automatic Deconvolution (FAD) method for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings. Details of the FAD method can be found in "A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings," IEEE Transactions on Computational Imaging, vol. 9, pp. 649-664, 2023. Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
+
+
 
 This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings" project (EP/R032785/1). 
 
