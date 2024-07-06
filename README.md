@@ -22,16 +22,8 @@ More information: https://art-ict.github.io/artict/home.html
 
 If you use this code in your research, please cite the following paper:
 
-@article{YourPaper,
-author = {Author Name(s)},
-title = {Title of Your Paper},
-journal = {Journal/Conference Name},
-year = {Year},
-volume = {Volume},
-number = {Number},
-pages = {Pages},
-doi = {DOI}
-}
+### BibTeX
+```bibtex
 
 @article{yan2023fast,
 title={A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings},
