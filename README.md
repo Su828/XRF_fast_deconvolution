@@ -32,7 +32,8 @@ pages={649--664},
 year={2023},
 publisher={IEEE}
 }
-
+```
+```bibtex
 @article{yan2021prony,
   title={When de Prony met Leonardo: an automatic algorithm for chemical element extraction from macro X-ray fluorescence data},
   author={Yan, Su and Huang, Jun-Jie and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
@@ -42,7 +43,8 @@ publisher={IEEE}
   year={2021},
   publisher={IEEE}
 }
-
+```
+```bibtex
 @inproceedings{yan2020revealing,
   title={Revealing hidden drawings in leonardo’s ‘the Virgin of the Rocks’ from macro X-ray fluorescence scanning data through element line localisation},
   author={Yan, Su and Huang, Jun-Jie and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
