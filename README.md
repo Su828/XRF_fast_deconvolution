@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- 
 - [Citation](#citation)
 - [License](#license)
 
@@ -13,7 +12,11 @@
 
 This repository is the official implementation of the Fast Automatic Deconvolution (FAD) method for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings based on MATLAB. Details of the FAD method can be found in "A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings," IEEE Transactions on Computational Imaging, vol. 9, pp. 649-664, 2023. Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
 
-**Advantages of the FAD method**: 1) Its ability to deconvolve MA-XRF data without a user's selection of expected chemical elements. This avoids unreliable results generated with different user selections. 2) Its ability to identify chemical elements with nearby characteristic energy levels, for example, Zn K&alpha; and Cu K&beta;. The FAD method performs a pre-detection of the chemical elements from the average spectrum and maximum spectrum of the MA-XRF data. Based on the pre-detected elements, the FAD method then deconvolves the whole MA-XRF data and generates the corresponding element distribution maps.
+![alt text](http://url/to/img.png)
+
+The FAD method performs a pre-detection of the chemical elements from the average spectrum and maximum spectrum of the MA-XRF data. Based on the pre-detected elements, the FAD method then deconvolves the whole MA-XRF data and generates the corresponding element distribution maps.
+
+**Advantages of the FAD method**: 1) Its ability to deconvolve MA-XRF data without a user's selection of expected chemical elements. This avoids unreliable results generated with different user selections. 2) Its ability to identify chemical elements with nearby characteristic energy levels, for example, Zn K&alpha; and Cu K&beta;. 
 
 This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings" project (EP/R032785/1). More information: https://art-ict.github.io/artict/home.html
 
