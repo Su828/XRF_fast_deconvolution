@@ -30,7 +30,10 @@ This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big 
 
 ## Usage
 
-
+To run the code, please follow the following steps:
+1. Open "pre_processing.m" file. Run each section one by one.
+2. Open "decon_fast_global_method.m". Run each section one by one.
+3. Open "view_elemental_map_fast_method.m". Run each section one by one.
 
 ## Citation
 
@@ -60,7 +63,7 @@ If you use this code in your research, please cite the following paper:
 ```
 ```bibtex
 @inproceedings{yan2020revealing,
-  title={Revealing Hidden Drawings in Leonardo's 'The Virgin of the Rocks' from MACRO X-RAY Fluorescence Scanning Data through Element Line Localisation},
+  title={Revealing Hidden Drawings in Leonardo's 'The Virgin of the Rocks' from Macro X-RAY Fluorescence Scanning Data through Element Line Localisation},
   author={Yan, Su and Huang, Jun-Jie and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
   booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={1444--1448},
