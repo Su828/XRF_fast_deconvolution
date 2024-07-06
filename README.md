@@ -1,5 +1,7 @@
 # Fast Automatic Deconvolution (FAD) for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Su828/XRF_fast_deconvolution)
+
 [Su Yan](https://profiles.imperial.ac.uk/s.yan18) ([s.yan18@imperial.ac.uk](mailto:s.yan18@imperial.ac.uk)) and Prof [Pier Luigi Dragotti](https://www.commsp.ee.ic.ac.uk/%7Epld/)
 
 ## Table of Contents
