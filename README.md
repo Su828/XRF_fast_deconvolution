@@ -12,7 +12,7 @@
 
 This repository is the official implementation of the Fast Automatic Deconvolution (FAD) method for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings based on MATLAB. Details of the FAD method can be found in "A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings," IEEE Transactions on Computational Imaging, vol. 9, pp. 649-664, 2023. Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
 
-![alt text](http://url/to/img.png)
+![FAD workflow]([http://url/to/img.png](https://github.com/Su828/XRF_fast_deconvolution/blob/main/doc/workflow.png))
 
 The FAD method performs a pre-detection of the chemical elements from the average spectrum and maximum spectrum of the MA-XRF data. Based on the pre-detected elements, the FAD method then deconvolves the whole MA-XRF data and generates the corresponding element distribution maps.
 
