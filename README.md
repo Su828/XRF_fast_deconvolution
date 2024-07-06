@@ -22,9 +22,7 @@ More information: https://art-ict.github.io/artict/home.html
 
 If you use this code in your research, please cite the following paper:
 
-### BibTeX
 ```bibtex
-
 @article{yan2023fast,
 title={A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings},
 author={Yan, Su and Huang, Jun-Jie and Verinaz-Jadan, Herman and Daly, Nathan and Higgitt, Catherine and Dragotti, Pier Luigi},
@@ -53,6 +51,7 @@ publisher={IEEE}
   year={2020},
   organization={IEEE}
 }
+```bibtex
 
 ## License
 
