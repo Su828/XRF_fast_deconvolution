@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Installation](#citation)
 - [Citation](#citation)
 - [License](#license)
 
@@ -18,6 +19,13 @@ The FAD method performs a pre-detection of the chemical elements from the averag
 **Advantages of the FAD method**: 1) Its ability to deconvolve MA-XRF data without a user's selection of expected chemical elements. This avoids unreliable results generated with different user selections. 2) Its ability to identify chemical elements with nearby characteristic energy levels, for example, Zn K&alpha; and Cu K&beta;. 
 
 This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings" project (EP/R032785/1). More information: https://art-ict.github.io/artict/home.html
+
+## Installation
+
+- Get MATLAB installed. The code has been tested on MATLAB versions R2021b and R2023b, so it is recommended to use MATLAB version R2021b or newer.
+- Download the code.
+- Run MATLAB.
+- Navigate to the code folder by typing in the MATLAB command window: `cd "the_foler_path"`
 
 ## Citation
 
