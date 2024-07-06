@@ -5,7 +5,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#citation)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Citation](#citation)
 - [License](#license)
 
@@ -26,6 +27,10 @@ This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big 
 - Download the code.
 - Run MATLAB.
 - Navigate to the code folder by typing in the MATLAB command window: `cd "the_foler_path"`
+
+## Usage
+
+
 
 ## Citation
 
