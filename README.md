@@ -14,7 +14,8 @@
 
 This repository based on MATLAB is the official implementation of the Fast Automatic Deconvolution (FAD) method for Macro X-ray Fluorescence (MA-XRF) data collected from easel paintings. Details of the FAD method can be found in "A fast automatic method for deconvoluting macro X-ray fluorescence data collected from easel paintings," IEEE Transactions on Computational Imaging, vol. 9, pp. 649-664, 2023. Paper links: [arxiv version](https://arxiv.org/abs/2210.17496) and [published version](https://ieeexplore.ieee.org/document/10158498).
 
-![FAD workflow](https://github.com/Su828/XRF_fast_deconvolution/blob/main/doc/workflow.png)
+<img src="doc/workflow.png" alt="FAD_workflow" width="700">
+
 The FAD method performs a pre-detection of the chemical elements from the average spectrum and maximum spectrum of the MA-XRF data. Based on the pre-detected elements, the FAD method then deconvolves the whole MA-XRF data and generates the corresponding element distribution maps.
 
 **Advantages of the FAD method**: 1) Its ability to deconvolve MA-XRF data without a user's selection of expected chemical elements. This avoids unreliable results generated with different user selections. 2) Its ability to identify chemical elements with nearby characteristic energy levels, for example, Zn K&alpha; and Cu K&beta;. 
@@ -34,6 +35,9 @@ To run the code, please follow the following steps:
 1. Open "pre_processing.m" file. Run each section one by one.
 2. Open "decon_fast_global_method.m" file. Run each section one by one.
 3. Open "view_elemental_map_fast_method.m" file. Run each section one by one.
+
+An MA-XRF dataset collected on a colour swatch panel has been uploaded to test the code. 
+<img src="dataset/R117_colour swatch panel_Video Mosaic.jpg" alt="colour_swatch_panel" width="400">
 
 ## Citation
 
