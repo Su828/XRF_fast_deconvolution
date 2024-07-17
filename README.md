@@ -37,6 +37,8 @@ To run the code, please follow the following steps:
 3. Open "view_elemental_map_fast_method.m" file. Run each section one by one.
 
 An MA-XRF dataset collected on a colour swatch panel has been uploaded to test the code. 
+**Please download the dataset "[dataset/R117.raw](https://github.com/Su828/XRF_fast_deconvolution/blob/main/dataset/R117.raw)" directly. Attempting to download it as part of the zip file results in failure.**
+
 <img src="dataset/R117_colour swatch panel_Video Mosaic.jpg" alt="colour_swatch_panel" width="400">
 
 ## Citation
