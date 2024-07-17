@@ -25,6 +25,7 @@
 % Processing (ICASSP). IEEE, 2020, pp. 1444–1448.
 
 clc; close all; clear all;
+addpath(genpath('tool_functions'))
 
 %% load the parameters from pre_processing
 para_file = 'XRF databases/R117_pre_para_fast_global.mat';

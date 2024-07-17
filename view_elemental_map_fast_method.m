@@ -26,12 +26,12 @@
 
 clc;close all;clear all;
 
-%% load the deconvolution result
-result_file = 'XRF databases/R117_decon_results_fast_global.mat';
+%% load the preprocessed parameters
+result_file = 'dataset/R117_decon_results_fast_global.mat';
 load(result_file)
 
 %% display the elemental maps
-view_para.atomic_No_view = 34; % select the element to view
+view_para.atomic_No_view = 30; % select the Atomic Number of an element to view
 view_para.lines_chosen = [1 2 3 4 5 6 7]; % select the element lines to view
 % set the maximum threshold for displaying an elemental map
 view_para.max_value=[inf inf inf inf inf inf inf]; 
