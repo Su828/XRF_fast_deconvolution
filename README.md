@@ -33,7 +33,7 @@ This work was in part of the EPSRC-funded ARTICT "Art Through the ICT Lens: Big 
 
 To run the code, please follow the following steps:
 1. Open "pre_processing.m" file. Run each section one by one.
-2. Open "decon_fast_global_method.m" file. Run each section one by one.
+2. Open "decon_fast_global_method_v1.m" file. Run each section one by one.
 3. Open "view_elemental_map_fast_method.m" file. Run each section one by one.
 
 An MA-XRF dataset collected on a colour swatch panel has been uploaded to test the code. 
